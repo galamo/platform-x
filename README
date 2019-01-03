@@ -1,0 +1,6 @@
+A white-label platform for all your social needs.
+
+Server Installation:
+cd backend
+npm install
+navigate to localhost:3000
